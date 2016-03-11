@@ -1,4 +1,4 @@
-// Simple helper library for making CRC32 checksums
+// Make a CRC32 checksum (with or without an offset) of a string or []byte
 package tinysum
 
 import (
